@@ -42,7 +42,7 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/farawaybride00bens</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The “Dr.” in chapter 13 is a reference to the debit column of a credit note, not an abbreviation for doctor.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/stella-benson_the-faraway-bride</meta>
