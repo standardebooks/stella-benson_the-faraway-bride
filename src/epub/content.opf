@@ -29,6 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Faraway Bride</dc:title>
 		<meta property="file-as" refines="#title">Faraway Bride, The</meta>
+		<meta property="dcterms:alternative" refines="#title">Tobit Transplanted</meta>
 		<dc:subject id="subject-1">Manchuria (China)</dc:subject>
 		<dc:subject id="subject-2">Bible. Apocrypha</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -36,9 +37,10 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85013778</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young Russian man walks from Manchuria to Seoul to reclaim an old debt.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;For unconvincing reasons Old Sergei Malinin has gone blind, and the family shop in Chi-tao-kou, Manchuria has also been raided by the Red Army, leaving the family relying on what little money can be scraped together from Anna’s sewing, and their son Seryozha’s timberwork. Luckily, Old Sergei, ever the businessman, has remembered that ten years previous he lent his old friend Gavril Ilitch Isaev two hundred yen, a sum that with interest would now be immensely valuable to the Malinins. The money is in Seoul, but a three week walk through the Korean mountains to a city sounds like the perfect adventure to Seryozha; the unexpected appearance of an English-educated Chinese lawyer who happens to know the way is enough to tip Anna over the edge into agreeing with the plan.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Faraway Bride&lt;/i&gt; (alternately titled &lt;i&gt;Tobit Transplanted&lt;/i&gt; for the British release) is &lt;a href="https://standardebooks.org/ebooks/stella-benson"&gt;Stella Benson’s&lt;/a&gt; best known work. The story, liberally cribbed from the tale of Tobit from the Apocrypha, is rehomed to Manchuria in the late 1920s; a period characterised by political unrest and emigration. The resulting jumble of languages and cultures leads to perhaps a surprisingly comic take on the subject, but one that is painted with great empathy for the central characters.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/farawaybride00bens</dc:source>
