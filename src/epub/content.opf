@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/stella-benson/the-faraway-bride</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-01T16:00:42Z</dc:date>
+		<meta property="dcterms:modified">2026-01-01T16:00:42Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,16 +37,19 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85013778</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Prix Femina—Vie Heureuse Winners</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">13</meta>
 		<dc:description id="description">A young Russian man walks from Manchuria to Seoul to reclaim an old debt.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;For unconvincing reasons Old Sergei Malinin has gone blind, and the family shop in Chi-tao-kou, Manchuria has also been raided by the Red Army, leaving the family relying on what little money can be scraped together from Anna’s sewing, and their son Seryozha’s timberwork. Luckily, Old Sergei, ever the businessman, has remembered that ten years previous he lent his old friend Gavril Ilitch Isaev two hundred yen, a sum that with interest would now be immensely valuable to the Malinins. The money is in Seoul, but a three week walk through the Korean mountains to a city sounds like the perfect adventure to Seryozha; the unexpected appearance of an English-educated Chinese lawyer who happens to know the way is enough to tip Anna over the edge into agreeing with the plan.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Faraway Bride&lt;/i&gt; (alternately titled &lt;i&gt;Tobit Transplanted&lt;/i&gt; for the British release) is &lt;a href="https://standardebooks.org/ebooks/stella-benson"&gt;Stella Benson’s&lt;/a&gt; best known work. The story, liberally cribbed from the tale of Tobit from the Apocrypha, is rehomed to Manchuria in the late 1920s; a period characterised by political unrest and emigration. The resulting jumble of languages and cultures leads to perhaps a surprisingly comic take on the subject, but one that is painted with great empathy for the central characters.&lt;/p&gt;
+			&lt;p&gt;For unconvincing reasons Old Sergei Malinin has gone blind; the family’s woes are compounded when their shop in Chi-tao-kou, Manchuria is raided by the Red Army. They’re left relying on what little money can be scraped together from their daughter Anna’s sewing and their son Seryozha’s timberwork. Luckily, Old Sergei, ever the businessman, has remembered that ten years ago he lent his old friend Gavril Ilitch Isaev two hundred yen, a sum that, with interest, would now be immensely valuable to the Malinins. The money is in Seoul, but a three week walk through the Korean mountains to a city sounds like the perfect adventure to Seryozha, and the unexpected appearance of an English-educated Chinese lawyer who happens to know the way is enough to tip Anna over the edge into agreeing with the plan.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Faraway Bride&lt;/i&gt; (alternately titled &lt;i&gt;Tobit Transplanted&lt;/i&gt; for the British market) is &lt;a href="https://standardebooks.org/ebooks/stella-benson"&gt;Stella Benson’s&lt;/a&gt; best known work. The story, liberally cribbed from the tale of Tobit from the Apocrypha, is rehomed to late 1920s Manchuria, a setting characterized by political unrest and emigration. The resulting jumble of languages and cultures leads to a perhaps surprisingly comic take on the subject, but one that’s full of great empathy for the main characters.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/farawaybride00bens</dc:source>
 		<meta property="se:production-notes">The “Dr.” in chapter 13 is a reference to the debit column of a credit note, not an abbreviation for doctor.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">115612</meta>
+		<meta property="se:reading-ease.flesch">70.73</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/stella-benson_the-faraway-bride</meta>
 		<dc:creator id="author">Stella Benson</dc:creator>
 		<meta property="file-as" refines="#author">Benson, Stella</meta>
@@ -70,6 +73,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
