@@ -48,7 +48,7 @@
 		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/farawaybride00bens</dc:source>
-		<meta property="schema:wordCount">114055</meta>
+		<meta property="schema:wordCount">114056</meta>
 		<meta property="schema:educationalLevel">70.73</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
